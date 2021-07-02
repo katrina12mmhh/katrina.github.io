@@ -1,0 +1,33 @@
+Table of contents
+Overview
+Features
+Requirements
+What's new
+Installation
+Upgrade from previous version
+Frequently Asked Questions (FAQ)
+Licensing and pricing
+Contact information
+Overview
+StP Database Administrator (DBAdmin later) is a tool that allows you to manage your MS Access databases through your browser, providing various set of functions you can perform with your databases, without having downloading them, changing and uploading again. Most of features needed for database management are included, you can even create a new blank databases on-line.
+
+Features:
+View tables in your database
+Creating/modifying/deleting tables, data in tables, stored procedures, views and relations (foreign keys) between tables
+Cycling through records in table, modifying/adding data if needed.
+Editing extended properties of fields(columns) in table, like description, default value, etc.
+Generates SQL statement for each table with syntax highlighting.
+Creating/modifying/deleting indexes
+Executing views and stored procedures
+Provides human-readable description of each relation between tables
+Free-Type Query allows running your own SQL queries (single or multiple, separated with semicolon).
+When executing multiple queries at once you have an option to rollback (using transactions) if one of them fails, or continue regardless any errors.
+Compact and repair database
+Creating back up copy of your database and restoring from backup
+Exporting your database structure in form of SQL statements.
+Setting/changing/removing database password.
+Saves database paths for quick access later (doesn't save database passwords though).
+XML and Excel (text-delimited) data export.
+Browsing for your database, so you do not need to type the path by yourself
+Checking for a new version in one click.
+And more...
